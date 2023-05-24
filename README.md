@@ -1,4 +1,4 @@
-# Quasar App (mgtrisquequasar)
+# Quasar App 
 
 A Quasar Project
 
